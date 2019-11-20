@@ -1,0 +1,3 @@
+Se debe ejecutar por terminal g++ programa.cpp
+luego las instrucciones para obtener el resultado de la multiplicacion de matrices
+./a.out -m ./ Matrices.txt
